@@ -24,11 +24,19 @@ The marketing efforts overall work efficiently showing the correlation between t
 
 # Summary of Insights
 ## 1. Country: Correlation High in Europe, Low in Asia-Pacific
-The correlation between events and sales is higher in European countries and lower in Asia-Pacific countries including Brazil. However, in terms of potential market size calculated by the number of users, Asia-Pacifc has much more users than Europe.
+The correlation between events and sales is higher in European countries and lower in Asia-Pacific countries including Brazil. However, in terms of potential market size calculated by the number of users, Asia-Pacifc has much more users than Europe.  
+  
+<img src="Correlation_Country.png" alt="Correlation_Country" width="100%">
 
 ## 2. Traffic Source: Correlation High in Facebook and Email, Low in Organic, Search, and Display
-The correlation between events and sales is higher in Facebook and Email, in oposit lower in Organic, Search, and Display. However, the most dominant traffic source for most of users is search which is the second lowest in the correlation.
+The correlation between events and sales is higher in Facebook and Email, in oposit lower in Organic, Search, and Display. However, the most dominant traffic source for most of users is search which is the second lowest in the correlation.  
+
+<img src="Correlation_Traffic.png" alt="Correlation_Traffic" width="100%">
 
 # Recommendations & Next Steps
 ## 1. Country: 
-## 2. Traffic Source: 
+Further analysis on the marketing method both in Europe and Asia-Pacific is recommended to figure out factors behind the difference in the correlation. 
+
+## 2. Traffic Source: Allocate more budget to Facebook and Email
+As traffic source, Facebook and Email perform slighly well than the other three. So, it is good option for the marketing team to consider allocation marketing budget to Facebook and Email if it does not require additional cost and workload. Also further analysis for more detail actions by users, for example View Rate, Click rate, and Conversion Rate.
+
