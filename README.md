@@ -23,11 +23,12 @@ The marketing efforts overall work efficiently showing the correlation between t
 <img src="Correlation_Events_Sales.png" alt="Correlation_Events_Sales" width="30%"> <img src="Correlation_Events_Orders.png" alt="Correlation_Events_Orders" width="30%"> <img src="Correlation_Events_Items.png" alt="Correlation_Events_Items" width="30%">
 
 # Summary of Insights
-## 1. Country: Correlation High in Europe and Low in Asia-Pacific
+## 1. Country: Correlation High in Europe, Low in Asia-Pacific
+The correlation between events and sales is higher in European countries and lower in Asia-Pacific countries including Brazil. However, in terms of potential market size calculated by the number of users, Asia-Pacifc has much more users than Europe.
 
-## 2. 
+## 2. Traffic Source: Correlation High in Facebook and Email, Low in Organic, Search, and Display
+The correlation between events and sales is higher in Facebook and Email, in oposit lower in Organic, Search, and Display. However, the most dominant traffic source for most of users is search which is the second lowest in the correlation.
 
 # Recommendations & Next Steps
-## 1. 
-
-## 2. 
+## 1. Country: 
+## 2. Traffic Source: 
